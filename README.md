@@ -1,21 +1,73 @@
-### Olá, Eu sou o Lucas Henrique ✌🏼
-<div>
-    <a href="https://github.com/luc4sh3nriqu3">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc4sh3nriqu3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc4sh3nriqu3&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+# 👋 Olá, eu sou o Lucas Henrique
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-</div>
+🎓 Estudante de Ciência da Computação na UNIFESP  
+📊 Foco em Ciência de Dados e Machine Learning  
+🔎 Interessado em aplicações de dados para tomada de decisão, especialmente no mercado financeiro  
 
-##
+Atualmente desenvolvo projetos aplicados envolvendo análise exploratória de dados, modelagem estatística e deep learning, buscando sempre conectar dados a problemas reais.
 
-<div>
-    <a href="https://www.linkedin.com/in/lucas-amorim-7a3a60172/" terget="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/lucas.henrique.09" target="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/5512997774728" target="_blank"><img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-    <a href="mailto:lucas.henrique09.luska@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
+
+## 🚀 Projetos em Destaque
+
+### 📊 Análise de Risco de Crédito
+Projeto focado na análise exploratória e identificação de variáveis relevantes para avaliação de risco de crédito.
+
+- Limpeza e tratamento de dados
+- Análise exploratória (EDA)
+- Visualizações com Matplotlib e Seaborn
+- Identificação de padrões relevantes para tomada de decisão
+
+🔗 *(Adicione aqui o link do repositório quando publicar)*
+
+---
+
+### 📈 Regressão – Evasão Escolar
+Análise estatística para investigar fatores associados à evasão escolar em capitais brasileiras.
+
+- Construção de modelo de regressão
+- Interpretação de coeficientes
+- Avaliação de impacto das variáveis
+- Discussão dos resultados
+
+🔗 *(Adicione aqui o link do repositório quando publicar)*
+
+---
+
+### 🤖 Visão Computacional (em desenvolvimento)
+Projeto utilizando Deep Learning para detecção de falhas em materiais.
+
+- Rotulagem de imagens com LabelImg
+- Treinamento de modelo baseado em YOLO
+- Análise e otimização de métricas como precisão, recall e mAP
+- Ajuste de parâmetros para melhoria de desempenho
+
+---
+
+## 🛠️ Tecnologias
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn (em aprimoramento)
+- SQL
+- YOLO / Deep Learning
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Dados
+- Databricks
+- Aplicações de IA com agentes inteligentes
+- Otimização e avaliação de modelos de Machine Learning
+
+---
+
+## 📬 Contato
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-amorim-7a3a60172/  
+📧 Email: lucas.henrique09.luska@gmail.com
+
