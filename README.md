@@ -18,19 +18,7 @@ Projeto focado na análise exploratória e identificação de variáveis relevan
 - Visualizações com Matplotlib e Seaborn
 - Identificação de padrões relevantes para tomada de decisão
 
-🔗 *(Adicione aqui o link do repositório quando publicar)*
-
----
-
-### 📈 Regressão – Evasão Escolar
-Análise estatística para investigar fatores associados à evasão escolar em capitais brasileiras.
-
-- Construção de modelo de regressão
-- Interpretação de coeficientes
-- Avaliação de impacto das variáveis
-- Discussão dos resultados
-
-🔗 *(Adicione aqui o link do repositório quando publicar)*
+[Ver projeto](https://github.com/luc4sh3nriqu3/home-credit-risk-analysis)
 
 ---
 
@@ -69,5 +57,5 @@ Projeto utilizando Deep Learning para detecção de falhas em materiais.
 ## 📬 Contato
 
 🔗 LinkedIn: https://www.linkedin.com/in/lucas-amorim-7a3a60172/  
-📧 Email: lucas.henrique09.luska@gmail.com
+📧 Email: amorim.hlucas@gmail.com
 
