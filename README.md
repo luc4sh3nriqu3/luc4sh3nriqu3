@@ -1,17 +1,17 @@
 # 👋 Olá, eu sou o Lucas Henrique
 
 🎓 Estudante de Ciência da Computação na UNIFESP  
-📊 Foco em Ciência de Dados e Machine Learning  
-🔎 Interessado em aplicações de dados para tomada de decisão, especialmente no mercado financeiro  
+📊 Foco em Engenharia de Dados  
+🔎 Interessado em aplicações de dados, especialmente no mercado financeiro  
 
-Atualmente desenvolvo projetos aplicados envolvendo análise exploratória de dados, modelagem estatística e deep learning, buscando sempre conectar dados a problemas reais.
+Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamentos de Python e SQL, buscando sempre conectar dados a problemas reais.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### 📊 Análise de Risco de Crédito
-Projeto focado na análise exploratória e identificação de variáveis relevantes para avaliação de risco de crédito.
+Projeto end-to-end focado na análise exploratória e identificação de variáveis relevantes para avaliação de risco de crédito.
 
 - Limpeza e tratamento de dados
 - Análise exploratória (EDA)
@@ -35,12 +35,12 @@ Projeto utilizando Deep Learning para detecção de falhas em materiais.
 ## 🛠️ Tecnologias
 
 - Python
+- SQL
+- DuckDB
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn (em aprimoramento)
-- SQL
 - YOLO / Deep Learning
 
 ---
@@ -48,9 +48,6 @@ Projeto utilizando Deep Learning para detecção de falhas em materiais.
 ## 📚 Atualmente estudando
 
 - Engenharia de Dados
-- Databricks
-- Aplicações de IA com agentes inteligentes
-- Otimização e avaliação de modelos de Machine Learning
 
 ---
 
