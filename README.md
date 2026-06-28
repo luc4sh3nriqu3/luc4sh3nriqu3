@@ -9,8 +9,12 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 
 ---
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas--amorim/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soulucasamorim/)
+  <a href="https://www.linkedin.com/in/lucas--amorim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/soulucasamorim/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 🔗 LinkedIn:   
 📧 Email: amorim.hlucas@gmail.com
