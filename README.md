@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Henrique
----
 
+---
 🎓 Estudante de Ciência da Computação na UNIFESP  
 ⚙️ Foco em Engenharia de Dados
 🔎 Interessado em aplicações de dados, especialmente no mercado financeiro
@@ -21,7 +21,6 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 </p>
 
 ---
-
 ## 🚀 Projetos em Destaque
 
 ### 📊 Análise de Risco de Crédito
