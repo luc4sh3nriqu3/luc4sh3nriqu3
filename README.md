@@ -29,7 +29,8 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 
   <p align="left">
     <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
-      <img width="390" src="(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)">
+      <img width="390" src="(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+">
     </a>
     
     <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
