@@ -21,8 +21,29 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 </p>
 
 ---
-## 🚀 Projetos em Destaque
+## 
 
+<details open>
+  <summary><h2>🚀 Projetos em Destaque</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=luc4sh3nriqu3&repo=home-credeit-risk-analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projeto end-to-end focado na análise exploratória e identificação de variáveis relevantes para avaliação de risco de crédito.">
+    </a>
+    
+    <a href="">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Descrição do Projeto 2">
+    </a>
+    
+    <a href="https://github.com/SEU_USUARIO/NOME_DO_REPO_3">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Descrição do Projeto 3">
+    </a>
+  </p>
+
+  <a href="https://github.com/luc4sh3nrique?tab=repositories&sort=stargazers">
+    <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Os%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</details>
 ### 📊 Análise de Risco de Crédito
 Projeto end-to-end focado na análise exploratória e identificação de variáveis relevantes para avaliação de risco de crédito.
 
