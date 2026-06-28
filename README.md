@@ -19,6 +19,7 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
     <img src="https://img.shields.io/badge/amorim.hlucas%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
 ---
 
 ## 🚀 Projetos em Destaque
