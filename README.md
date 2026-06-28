@@ -43,7 +43,10 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 ---
 ## 🛠️ Tecnologias
 
-- Python
+<details open>
+  <summary><h2>🚀 Projetos em Destaque</h2></summary>
+
+  - Python
 - SQL
 - DuckDB
 - Pandas
@@ -51,6 +54,9 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 - Matplotlib
 - Seaborn
 - YOLO / Deep Learning
+  
+</details>
+
 
 ---
 
