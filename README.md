@@ -21,21 +21,8 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 </p>
 
 ---
-## 
+## 🚀 Projetos em Destaque
 
-<details open>
-  <summary><h2>🚀 Projetos em Destaque</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
-      <img width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=luc4sh3nriqu3&repo=home-credit-risk-analysis&theme=react&hide_border=true" alt="Home Credit Risk Analysis">
-    </a>
-  </p>
-
-  <a href="https://github.com/luc4sh3nriqu3?tab=repositories&sort=stargazers">
-    <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Os%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</details>
 ### 📊 Análise de Risco de Crédito
 Projeto end-to-end focado na análise exploratória e identificação de variáveis relevantes para avaliação de risco de crédito.
 
