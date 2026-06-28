@@ -8,8 +8,11 @@
 Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamentos de Python e SQL, buscando sempre conectar dados a problemas reais.
 
 ---
-
-🔗 LinkedIn: https://www.linkedin.com/in/lucas-amorim-7a3a60172/  
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas--amorim/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+🔗 LinkedIn:   
 📧 Email: amorim.hlucas@gmail.com
 ---
 
