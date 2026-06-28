@@ -28,7 +28,7 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 
   <p align="left">
     <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
-      <img width="390" src="https://github-readme-stats.vercel.com/api/pin/?username=luc4sh3nriqu3&repo=home-credit-risk-analysis&theme=react&hide_border=true" alt="Projeto 1">
+      <img width="390" src="https://github-readme-stats.vercel.com/api/pin/?username=luc4sh3nriqu3&repo=home-credit-risk-analysis&theme=react&hide_border=true">
     </a>
     
     <a href="https://github.com/SEU_USUARIO_DO_GITHUB/NOME_DO_REPO_2">
