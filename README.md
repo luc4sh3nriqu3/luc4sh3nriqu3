@@ -26,17 +26,16 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 <details open>
   <summary><h2>🚀 Projetos em Destaque</h2></summary>
 
-
   <p align="left">
     <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
-      <img width="390" src="(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-">
-    </a>
-    
-    <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
-      <img width="390" src="https://github-readme-stats.vercel.com/api/pin/?username=SEU_USUARIO_DO_GITHUB&repo=NOME_DO_REPO_2&theme=react&hide_border=true" alt="Projeto 2">
+      <img width="390" src="https://github-readme-stats.vercel.com/api/pin/?username=luc4sh3nrique&repo=home-credit-risk-analysis&theme=react&hide_border=true" alt="Projeto 1">
     </a>
   </p>
+
+  <a href="https://github.com/luc4sh3nriqu3?tab=repositories&sort=stargazers">
+    <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Os%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
+</details>
 
   <a href="https://github.com/luc4sh3nriqu3?tab=repositories&sort=stargazers">
     <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Os%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
