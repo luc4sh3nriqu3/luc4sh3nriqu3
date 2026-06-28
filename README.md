@@ -2,8 +2,8 @@
 
 ---
 🎓 Estudante de Ciência da Computação na UNIFESP  
-⚙️ Foco em Engenharia de Dados
-🔎 Interessado em aplicações de dados, especialmente no mercado financeiro
+⚙️ Foco em Engenharia de Dados  
+🔎 Interessado em aplicações de dados, especialmente no mercado financeiro  
 
 Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamentos de Python e SQL, buscando sempre conectar dados a problemas reais.
 
