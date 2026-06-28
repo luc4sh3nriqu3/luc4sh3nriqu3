@@ -26,12 +26,13 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 <details open>
   <summary><h2>🚀 Projetos em Destaque</h2></summary>
 
+
   <p align="left">
     <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
-      <img width="390" src="https://github-readme-stats.vercel.com/api/pin/?username=luc4sh3nriqu3&repo=home-credit-risk-analysis&theme=react&hide_border=true">
+      <img width="390" src="(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)">
     </a>
     
-    <a href="https://github.com/SEU_USUARIO_DO_GITHUB/NOME_DO_REPO_2">
+    <a href="https://github.com/luc4sh3nriqu3/home-credit-risk-analysis">
       <img width="390" src="https://github-readme-stats.vercel.com/api/pin/?username=SEU_USUARIO_DO_GITHUB&repo=NOME_DO_REPO_2&theme=react&hide_border=true" alt="Projeto 2">
     </a>
   </p>
