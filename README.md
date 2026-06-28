@@ -1,11 +1,16 @@
-# 👋 Olá, eu sou o Lucas Henrique
+# 👨‍💻 Lucas Henrique
+---
 
 🎓 Estudante de Ciência da Computação na UNIFESP  
-📊 Foco em Engenharia de Dados  
-🔎 Interessado em aplicações de dados, especialmente no mercado financeiro  
+⚙️ Foco em Engenharia de Dados
+🔎 Interessado em aplicações de dados, especialmente no mercado financeiro
 
 Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamentos de Python e SQL, buscando sempre conectar dados a problemas reais.
 
+---
+
+🔗 LinkedIn: https://www.linkedin.com/in/lucas-amorim-7a3a60172/  
+📧 Email: amorim.hlucas@gmail.com
 ---
 
 ## 🚀 Projetos em Destaque
@@ -49,10 +54,5 @@ Projeto utilizando Deep Learning para detecção de falhas em materiais.
 
 - Engenharia de Dados
 
----
 
-## 📬 Contato
-
-🔗 LinkedIn: https://www.linkedin.com/in/lucas-amorim-7a3a60172/  
-📧 Email: amorim.hlucas@gmail.com
 
