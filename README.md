@@ -21,7 +21,6 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
 </p>
 
 ---
-## 
 <details open>
   <summary><h2>🚀 Projetos em Destaque</h2></summary>
 
@@ -40,18 +39,8 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
     <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Os%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
----
-
-### 🤖 Visão Computacional (em desenvolvimento)
-Projeto utilizando Deep Learning para detecção de falhas em materiais.
-
-- Rotulagem de imagens com LabelImg
-- Treinamento de modelo baseado em YOLO
-- Análise e otimização de métricas como precisão, recall e mAP
-- Ajuste de parâmetros para melhoria de desempenho
 
 ---
-
 ## 🛠️ Tecnologias
 
 - Python
