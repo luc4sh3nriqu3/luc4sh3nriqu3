@@ -36,7 +36,7 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
     </a>
   </p>
 
-  <a href="https://github.com/SEU_USUARIO_DO_GITHUB?tab=repositories&sort=stargazers">
+  <a href="https://github.com/luc4sh3nriqu3?tab=repositories&sort=stargazers">
     <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Os%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
