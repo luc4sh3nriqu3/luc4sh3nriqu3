@@ -15,9 +15,10 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
   <a href="https://www.instagram.com/soulucasamorim/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="mailto:amorim.hlucas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
-🔗 LinkedIn:   
-📧 Email: amorim.hlucas@gmail.com
 ---
 
 ## 🚀 Projetos em Destaque
