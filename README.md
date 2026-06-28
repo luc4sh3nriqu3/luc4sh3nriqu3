@@ -36,11 +36,6 @@ Atualmente desenvolvo projetos aplicados envolvendo modelagem de dados, fundamen
     <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Os%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
-
-  <a href="https://github.com/luc4sh3nriqu3?tab=repositories&sort=stargazers">
-    <img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Todos%20Os%20Meus%20Repositorios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</details>
 ### 📊 Análise de Risco de Crédito
 Projeto end-to-end focado na análise exploratória e identificação de variáveis relevantes para avaliação de risco de crédito.
 
